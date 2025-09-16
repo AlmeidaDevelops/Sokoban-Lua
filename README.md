@@ -4,15 +4,14 @@
 
 Este proyecto está escrito en **Lua** y se ejecuta en la terminal.
 
-![Ejemplo de Gameplay](https://i.imgur.com/example.gif) 
-*(Nota: Este es un ejemplo, puedes grabar un GIF de tu juego y ponerlo aquí)*
+![Ejemplo de Gameplay](file:///C:/Users/USER/Desarrollo/Juegos/Demos/Sokoban/Demo.gif) 
 
 ## 📦 Características
 
-*   **Lógica Clásica de Sokoban:** Empuja cajas, no puedes tirar de ellas.
-*   **Mecánica de Portales:** Entra por un portal naranja (👉) y sal por el azul (➡️). ¡Las cajas también viajan!
-*   **Niveles Editables:** Crea tus propios puzzles fácilmente modificando el archivo `levels.lua`.
-*   **Interfaz de Terminal con Emojis:** Una experiencia de juego retro pero con un toque visual moderno y amigable.
+* **Lógica Clásica de Sokoban:** Empuja cajas, no puedes tirar de ellas.
+* **Mecánica de Portales:** Entra por un portal naranja (👉) y sal por el azul (➡️). ¡Las cajas también viajan!
+* **Niveles Editables:** Crea tus propios puzzles fácilmente modificando el archivo `levels.lua`.
+* **Interfaz de Terminal con Emojis:** Una experiencia de juego retro pero con un toque visual moderno y amigable.
 
 ## ⚙️ Instalación
 
@@ -45,20 +44,23 @@ sudo apt-get install lua5.4
 
 ## ▶️ Cómo Jugar
 
-1.  Clona o descarga este repositorio.
-2.  Abre una terminal en la carpeta del proyecto.
-3.  Ejecuta el siguiente comando:
+1. Clona o descarga este repositorio.
 
-    ```bash
-    lua game.lua
-    ```
-4.  ¡A jugar!
+2. Abre una terminal en la carpeta del proyecto.
+
+3. Ejecuta el siguiente comando:
+   
+   ```bash
+   lua game.lua
+   ```
+
+4. ¡A jugar!
 
 ### Controles
 
-*   **W, A, S, D:** Mover al jugador (Arriba, Izquierda, Abajo, Derecha).
-*   **R:** Reiniciar el nivel actual.
-*   **Q:** Salir del juego.
+* **W, A, S, D:** Mover al jugador (Arriba, Izquierda, Abajo, Derecha).
+* **R:** Reiniciar el nivel actual.
+* **Q:** Salir del juego.
 
 ### Objetivo
 
