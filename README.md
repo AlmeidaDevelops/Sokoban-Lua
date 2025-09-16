@@ -4,7 +4,7 @@
 
 Este proyecto está escrito en **Lua** y se ejecuta en la terminal.
 
-![Ejemplo de Gameplay](file:///C:/Users/USER/Desarrollo/Juegos/Demos/Sokoban/Demo.gif) 
+![Ejemplo de Gameplay](demo.gif) 
 
 ## 📦 Características
 
